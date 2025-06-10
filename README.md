@@ -1,2 +1,2 @@
 # fort_fight
-fortran game
+fortran simulation fight thing that is very simple.

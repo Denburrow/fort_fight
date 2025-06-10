@@ -1,2 +1,2 @@
-# fort_fight
-fortran simulation fight thing that is very simple.
+# fort_tap
+fortran tapping thing.
